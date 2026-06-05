@@ -59,7 +59,7 @@ const Navbar = () => {
         <div className="navbar-inner landing-page-limit">
           {/* Logo */}
           <div className="navbar-logo">
-            <span className={`logo-text font-display ${scrolled ? 'logo-dark' : 'logo-light'}`}>S.L</span>
+            <span className={`logo-text font-display ${scrolled ? 'logo-dark' : 'logo-light'}`}>Si</span>
             <span className="logo-dot" style={{ background: scrolled ? track.color : 'rgba(255,255,255,0.7)' }} />
           </div>
 
