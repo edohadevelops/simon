@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="footer-section">
       <div className="footer-inner">
-        <span className="footer-logo font-display">Si</span>
+        <span className="footer-logo font-display">S.L</span>
         <p className="footer-copy">
           © 2026 Simon Peter Lotigo.
         </p>
